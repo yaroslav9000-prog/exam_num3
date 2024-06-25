@@ -1,0 +1,10 @@
+.MainMenu {
+	display: flex;
+    flex-direction: column;
+}
+.MainMenu > a{
+    padding: 1em;
+    color: black;
+    font-weight: 600;
+    font-size: larger;
+}
